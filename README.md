@@ -1,1 +1,1 @@
-# dimash.github.id
+# dimash.github.io
