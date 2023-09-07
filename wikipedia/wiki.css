@@ -1,0 +1,32 @@
+ .table-text1 {
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: 20px;
+    display: inline-block;
+    padding: 20px 40px;
+    background-image: linear-gradient(to left,
+          #ececc3 0.000001%,
+          #f3b8748c 15%,
+          #b0c2617e 90%);
+    color: rgb(31, 5, 5);
+
+    text-decoration: none;
+    border: none;
+ }
+
+ .there {
+    margin-left: 100px;
+ }
+
+ .there2 {
+    margin-left: 100px;
+ }
+
+ .there3 {
+    margin-left: 100px;
+ }
+
+ .there4 {
+    width: 25px;
+    height: 25px;
+ }
