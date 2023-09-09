@@ -11,5 +11,5 @@ https://dimashbalabek.github.io/Html/new-yourk/new-yourk.html
 https://dimashbalabek.github.io/Html/wikipedia/index.html
 (wiki link)
 
-https://dimashbalabek.github.io/Resume-file/my-resume.html
+https://dimashbalabek.github.io/Html/Resume-file/my-resume.html
 (Link for Resume)
