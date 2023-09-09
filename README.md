@@ -7,3 +7,6 @@ https://dimashbalabek.github.io/Html/table-practise/festival.html
 
 https://dimashbalabek.github.io/Html/table-practise/NEW%20YOURK/new-yourk.html
 (NewYour site's Link)
+
+https://dimashbalabek.github.io/wikipedia/INDEX(F).html
+(wiki link)
