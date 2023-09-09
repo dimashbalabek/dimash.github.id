@@ -8,5 +8,5 @@ https://dimashbalabek.github.io/Html/table-practise/festival.html
 https://dimashbalabek.github.io/Html/new-yourk/new-yourk.html
 (NewYour site's Link)
 
-https://dimashbalabek.github.io/Html/wikipedia/INDEX(F).html
+https://dimashbalabek.github.io/Html/wikipedia/index.html
 (wiki link)
