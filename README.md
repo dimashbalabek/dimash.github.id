@@ -5,7 +5,7 @@ https://dimashbalabek.github.io/Html/fashion/fashion.html
 https://dimashbalabek.github.io/Html/table-practise/festival.html
 (link for festival site)
 
-https://dimashbalabek.github.io/Html/table-practise/NEW%20YOURK/new-yourk.html
+https://dimashbalabek.github.io/Html/new-yourk/new-yourk.html
 (NewYour site's Link)
 
 https://dimashbalabek.github.io/wikipedia/INDEX(F).html
