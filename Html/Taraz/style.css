@@ -1,0 +1,23 @@
+.see-text{font-size: 40px; margin-left: 40px; color: rgb(18, 93, 143); }
+
+.paragraph-2{font-size: 35px;}
+
+.get-in-text{color: rgb(7, 100, 112);}
+
+.paragraph-3{font-size: 30px;}
+
+.main-texts{font-size: 45px; margin-left: 50px;}
+
+.container{font-size: 40px; margin-left: 40px;}
+
+   body {
+         background-image: linear-gradient(to top,
+               #ffffff 10%,
+               #8cffdc8c 60%,
+               #e1ee27ad 150%); font-size: 30px;
+      }
+      .taraz-picture{width: 500px; height: 300px; padding: 10px; border-radius: 35px; background-color: cadetblue;}
+
+      .contact{padding: 10px 10px; background-image: linear-gradient(to right,
+               #8cff8c8c 60%,
+               #10946cad 150%); border-radius: 10px;}
