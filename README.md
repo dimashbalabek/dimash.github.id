@@ -13,3 +13,6 @@ https://dimashbalabek.github.io/Html/wikipedia/index.html
 
 https://dimashbalabek.github.io/Html/Resume-file/my-resume.html
 (Link for Resume)
+
+https://dimashbalabek.github.io/Html/Taraz/taraz.html
+(link for Taraz Website)
