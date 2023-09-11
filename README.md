@@ -2,7 +2,7 @@
 
 https://dimashbalabek.github.io/Html/festival/festival.html
 (link for fashion sit witch was maden for Isa)
-https://dimashbalabek.github.io/Html/table-practise/festival.html
+https://dimashbalabek.github.io/Html/festival/festival.html
 (link for festival site)
 
 https://dimashbalabek.github.io/Html/new-yourk/new-yourk.html
