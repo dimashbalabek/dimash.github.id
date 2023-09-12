@@ -1,6 +1,6 @@
 # dimash.github.io
 
-https://dimashbalabek.github.io/Html/festival/festival.html
+https://dimashbalabek.github.io/Html/fashion/fashion.html
 (link for fashion sit witch was maden for Isa)
 https://dimashbalabek.github.io/Html/festival/festival.html
 (link for festival site)
