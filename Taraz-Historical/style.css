@@ -1,0 +1,97 @@
+
+.black {
+
+padding: 100px 500px;
+background-image:
+ linear-gradient(to right,
+#000000 40%, 
+#000000 150%,
+);
+}
+
+.paper-comtainer {
+      width: 100mm;
+      height: 380mm;
+      background-color: #313030;
+      margin-left: 20px;
+      text-align: right ;
+      transform: rotate(1,5deg);
+}
+
+
+.img-main {
+margin-left: 1055px;
+width: 800px;
+position: absolute;
+height: 1323px;
+margin-top: 80px;
+}
+
+.orange {
+width: 40mm;
+height: 297mm;
+margin-left: 100px
+}
+
+     .see-text {
+           font-size: 40px;
+           margin-left: 40px;
+           color: rgb(143, 99, 18);
+     }
+
+
+
+     .paragraph-2 {
+           font-size: 35px;
+     }
+
+
+     .get-in-text {
+           color: rgb(112, 87, 7);
+     }
+
+     .paragraph-3 {
+           font-size: 30px;
+     }
+
+
+     .main-texts {
+           font-size: 45px;
+           margin-left: 50px;
+     }
+
+
+     .container {
+           font-size: 40px;
+           margin-left: 40px;
+     }
+
+
+     body {
+           background-image: linear-gradient(to top,
+                       #ffffff 10%,
+                       #ffd78c8c 60%,
+                       #ee7027ad 150%);
+           font-size: 30px;
+     }
+
+
+     .taraz-picture {
+           width: 500px;
+           height: 300px;
+           padding: 10px;
+           border-radius: 35px;
+           background-color: rgb(122, 101, 8);
+     }
+
+
+     .contact {
+           padding: 10px 10px;
+           background-image: linear-gradient(to right,
+                       #e7da1c8c 60%,
+                       #946a10ad 150%);
+           border-radius: 10px;
+     }
+     .footer {
+
+     }
