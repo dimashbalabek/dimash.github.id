@@ -189,3 +189,8 @@ top: 4x;
    width: 1000px;
   
 }
+
+footer {
+   position: fixed;
+   bottom: -55px;
+}
