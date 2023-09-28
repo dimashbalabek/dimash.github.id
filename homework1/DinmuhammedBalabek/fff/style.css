@@ -176,29 +176,31 @@
     margin-top: 64px;
 }
 .second-w{
+    font-size: 25px;
     margin-top: 32px;
     max-width: 700px;
     height: 200px;
     text-align: center;
     display: flex;
     justify-content: center;
-    margin-left: 700px;
+    margin-left: 850px;
+    
 }
 Вы отправили
 .second-w p {
+    margin-left: 300px;
     display: flex;
     justify-content: center;
-    color: white;
+    color: #4a4a4a;
     font-size: 26px;
 }
 .oct-img{
-    margin-top: -64px;
     display: flex;
     justify-content: center;
 }
 .oct-img img{
-    width: 500px;
-    height: 500px;
+    width: 00px;
+    height: 400px;
 }
 .before-foot{
     width: 100%;
