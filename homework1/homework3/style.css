@@ -14,7 +14,7 @@ h6 {
 
 .w3-sidebar {
    width: 120px;
-   background: #222;
+   background: #474646;
 }
 
 #main {
@@ -25,4 +25,8 @@ h6 {
    #main {
       margin-left: 0
    }
+}
+
+body {
+display: flex;
 }
