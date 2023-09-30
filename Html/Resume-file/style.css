@@ -1,11 +1,18 @@
-.my-image{width: 500px; height: 500px; 
-   margin-left: 700px; 
+.my-image{
+   width: 500px; 
+   height: 500px; 
+   display: flex;
+   justify-content: center;
    padding: 20px 20px;
-   background-color: rgb(9, 127, 156);
-   border-radius: 50px;
+   background-color: #097f9c;
+   border-radius: 50px; 
 
 }
+
+
+
 body{
+   
    background-image: linear-gradient(to left,
             #F0e2e2 40%,
             #ffc98c8c 60%,
@@ -13,5 +20,22 @@ body{
 }
 
 
-.about-me-text{font-size: 40px; margin-left: 50px;}
-.exp-png{width: 100px; height: 100px; border-radius: 30px;}
+.about-me-text{
+   font-size: 40px; 
+   margin-left: 50px;
+}
+.exp-png{width: 100px; 
+   height: 100px;
+    border-radius: 30px;
+}
+.li {
+   display: flex;
+   justify-content: center ;
+   text-decoration: none;
+}
+
+.Project-Link {
+   
+   font-size: 30px;
+   padding: 5px 10px;
+}

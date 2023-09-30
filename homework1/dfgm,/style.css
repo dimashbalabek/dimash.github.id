@@ -31,7 +31,6 @@
 
  .image-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
     max-width: 800px;
     margin: 20px auto;
