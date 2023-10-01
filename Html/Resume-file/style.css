@@ -4,11 +4,51 @@
    display: flex;
    justify-content: center;
    padding: 20px 20px;
-   background-color: #097f9c;
+   background-color: #a6de18;
    border-radius: 50px; 
 
 }
 
+  .table-container {
+     max-width: 1000px;
+     margin: 0 auto;
+     padding: 20px;
+     background-color: #fff;
+
+  }
+
+  table {
+     width: 100%;
+     border-collapse: collapse;
+  }
+
+  
+
+  th,
+  td {
+   
+   
+     padding: 10px;
+     text-align: left;
+  }
+
+  th {
+     background-color: #087964;
+     color: #fff;
+  }
+
+  tr:nth-child(even) {
+     background-color: #f2f2f2;
+  }
+
+  a {
+     color: #444408;
+     text-decoration: none;
+  }
+
+  a:hover {
+     text-decoration: underline;
+  }
 
 
 body{
